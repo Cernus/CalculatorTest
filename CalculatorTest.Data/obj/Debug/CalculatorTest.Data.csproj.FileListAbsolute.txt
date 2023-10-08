@@ -1,0 +1,6 @@
+C:\Users\PKitc\source\CalculatorTest\CalculatorTest.Data\bin\Debug\CalculatorTest.Data.dll
+C:\Users\PKitc\source\CalculatorTest\CalculatorTest.Data\bin\Debug\CalculatorTest.Data.pdb
+C:\Users\PKitc\source\CalculatorTest\CalculatorTest.Data\obj\Debug\CalculatorTest.Data.csproj.AssemblyReference.cache
+C:\Users\PKitc\source\CalculatorTest\CalculatorTest.Data\obj\Debug\CalculatorTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\PKitc\source\CalculatorTest\CalculatorTest.Data\obj\Debug\CalculatorTest.Data.dll
+C:\Users\PKitc\source\CalculatorTest\CalculatorTest.Data\obj\Debug\CalculatorTest.Data.pdb

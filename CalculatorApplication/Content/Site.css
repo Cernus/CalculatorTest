@@ -1,0 +1,64 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+
+    .body-content {
+        padding: 0;
+    }
+}
+
+/* Color Picker */
+body {
+    background: #283e51;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    font-size: 5em;
+}
+
+.pickr-container {
+    text-align: center;
+    margin-bottom: 1em;
+}
+.gallery {
+    text-align: center;
+    margin: 0 auto 100px;
+    max-width: 600px;
+}
+.gallery img {
+    width: 100%;
+}
+.gallary .flex {
+    display: flex;
+    align-items: center;
+}
+.gallary .flex > div {
+    width: 100%;
+    margin: 5px;
+}
